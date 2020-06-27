@@ -1,6 +1,7 @@
 .row-header{
     margin:0px auto;
     padding:0px;
+    color: #0f0f0f;
 }
 
 .row-content {
@@ -8,6 +9,7 @@
     padding: 35px 0px 35px 0px;
     border-bottom: 1px ridge;
     min-height:400px;
+    color: #0f0f0f;
 }
 
 .footer{
