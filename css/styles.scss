@@ -71,3 +71,21 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+#loginAction{
+    right:15px;
+    position: absolute;
+    bottom: 3px;
+    z-index: 1;
+}
+.modal{
+    .modal-header{
+        background:$background-dark;
+        color:floralwhite;
+    }
+    .close{
+        color:floralwhite;
+    }
+    .modal-body{
+        background-color: $background-pale;
+    }
+}
